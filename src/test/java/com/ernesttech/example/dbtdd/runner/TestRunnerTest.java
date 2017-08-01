@@ -23,7 +23,7 @@ import static org.junit.jupiter.api.DynamicTest.dynamicTest;
 
 @SpringBootTest
 @ExtendWith(SpringExtension.class)
-public class TestRunner {
+public class TestRunnerTest {
 
     @Autowired
     private TestsManager testManager;
